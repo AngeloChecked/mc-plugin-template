@@ -1,0 +1,9 @@
+name: checked
+main: me.checked.it.Plugin
+version: 0.1
+author: checked
+
+commands:
+  basic:
+    description: This is a demo command.
+    usage: /basic
